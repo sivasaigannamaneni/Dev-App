@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Loaner Request">9c1556af83d88310b0276750ceaad35d</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Assigned to me</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1830144_loaner_0_loaner_request</name>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>active=true^assigned_to=javascript:gs.user_id()</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 07:35:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f0681e27831c8310b0276750ceaad37b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assigned to me</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_1830144_loaner_0">b88316eb83d88310b0276750ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b88316eb83d88310b0276750ceaad37a</sys_scope>
+        <sys_update_name>sys_app_module_f0681e27831c8310b0276750ceaad37b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 07:35:40</sys_updated_on>
+        <timeline_page/>
+        <title>Assigned to me</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">b88316eb83d88310b0276750ceaad37a</application>
+        <file_path/>
+        <instance_id>e06b3602dbfd311c39639027c59619ec</instance_id>
+        <instance_name>dev183636</instance_name>
+        <name>sys_app_module_f0681e27831c8310b0276750ceaad37b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Loaner Request">9c1556af83d88310b0276750ceaad35d</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Assigned to me</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1830144_loaner_0_loaner_request</name><order>400</order><override_menu_roles>false</override_menu_roles><query>active=true^assigned_to=javascript:gs.user_id()</query><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-23 07:35:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f0681e27831c8310b0276750ceaad37b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Assigned to me</sys_name><sys_overrides/><sys_package display_value="Loaner Request" source="x_1830144_loaner_0">b88316eb83d88310b0276750ceaad37a</sys_package><sys_policy/><sys_scope display_value="Loaner Request">b88316eb83d88310b0276750ceaad37a</sys_scope><sys_update_name>sys_app_module_f0681e27831c8310b0276750ceaad37b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-23 07:35:40</sys_updated_on><timeline_page/><title>Assigned to me</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1681828229</payload_hash>
+        <record_name>Assigned to me</record_name>
+        <reverted_from/>
+        <source>498316eb83d88310b0276750ceaad37d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 07:35:40</sys_created_on>
+        <sys_id>5b1956a7831c8310b0276750ceaad3d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19db94418c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 07:35:40</sys_updated_on>
+        <type>Module</type>
+        <update_guid>df199ae3461c831057459944d50a2b59</update_guid>
+        <update_guid_history>df199ae3461c831057459944d50a2b59:-1681828229</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Assigned to me">c967fe238310c310b0276750ceaad3ab</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 09:47:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>23a940d028004adb933433a26cc99571</sys_id>
+        <sys_metadata>f0681e27831c8310b0276750ceaad37b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assigned to me</sys_name>
+        <sys_package display_value="Loaner Request" source="x_1830144_loaner_0">b88316eb83d88310b0276750ceaad37a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b88316eb83d88310b0276750ceaad37a</sys_scope>
+        <sys_scope_delete display_value="">6ed6ed8386a942d28baff0e232102269</sys_scope_delete>
+        <sys_update_name>sys_app_module_f0681e27831c8310b0276750ceaad37b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f0681e27831c8310b0276750ceaad37b">5b1956a7831c8310b0276750ceaad3d6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 09:47:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

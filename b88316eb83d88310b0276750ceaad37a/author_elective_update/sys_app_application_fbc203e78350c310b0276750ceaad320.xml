@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 10:38:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fbc203e78350c310b0276750ceaad320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_1830144_loaner_0">b88316eb83d88310b0276750ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b88316eb83d88310b0276750ceaad37a</sys_scope>
+        <sys_update_name>sys_app_application_fbc203e78350c310b0276750ceaad320</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 10:38:41</sys_updated_on>
+        <title>Loaner Request</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">b88316eb83d88310b0276750ceaad37a</application>
+        <file_path/>
+        <instance_id>e06b3602dbfd311c39639027c59619ec</instance_id>
+        <instance_name>dev183636</instance_name>
+        <name>sys_app_application_fbc203e78350c310b0276750ceaad320</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-23 10:38:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fbc203e78350c310b0276750ceaad320</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Request</sys_name><sys_overrides/><sys_package display_value="Loaner Request" source="x_1830144_loaner_0">b88316eb83d88310b0276750ceaad37a</sys_package><sys_policy/><sys_scope display_value="Loaner Request">b88316eb83d88310b0276750ceaad37a</sys_scope><sys_update_name>sys_app_application_fbc203e78350c310b0276750ceaad320</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-23 10:38:41</sys_updated_on><title>Loaner Request</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1087218325</payload_hash>
+        <record_name>Loaner Request</record_name>
+        <reverted_from/>
+        <source>498316eb83d88310b0276750ceaad37d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 10:38:41</sys_created_on>
+        <sys_id>7bf287e78350c310b0276750ceaad305</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19db9eba4270000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 10:38:41</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>3bf287e73d50c3100b4c1af1ed4e3504</update_guid>
+        <update_guid_history>3bf287e73d50c3100b4c1af1ed4e3504:1087218325</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Request">7e230be78350c310b0276750ceaad3cd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 10:39:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>2ffc8c9fb7294f7fa4298ef5c0d4d0e9</sys_id>
+        <sys_metadata>fbc203e78350c310b0276750ceaad320</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_1830144_loaner_0">b88316eb83d88310b0276750ceaad37a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b88316eb83d88310b0276750ceaad37a</sys_scope>
+        <sys_scope_delete display_value="">6ed6ed8386a942d28baff0e232102269</sys_scope_delete>
+        <sys_update_name>sys_app_application_fbc203e78350c310b0276750ceaad320</sys_update_name>
+        <sys_update_version display_value="sys_app_application_fbc203e78350c310b0276750ceaad320">7bf287e78350c310b0276750ceaad305</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 10:39:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
