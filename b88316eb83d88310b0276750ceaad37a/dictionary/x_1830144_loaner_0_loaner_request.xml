@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="4de3122f83d88310b0276750ceaad34b" extends="task" label="Loaner Request" max_length="40" name="x_1830144_loaner_0_loaner_request" type="collection">
+    <element audit="true" db_object_id="4de3122f83d88310b0276750ceaad34b" extends="task" label="Loaner Request" max_length="40" name="x_1830144_loaner_0_loaner_request" type="collection">
+        <element label="Location to be used" max_length="40" name="location_to_be_used" type="string"/>
         <element choice="1" default="sc" label="Depot" max_length="40" name="depot" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Buenosn Aires" sequence="2" value="ba"/>
@@ -13,6 +14,7 @@
         </element>
         <element label="Start Date" mandatory="true" max_length="255" name="start_date" type="glide_date_time"/>
         <element label="End Date" mandatory="true" max_length="255" name="end_date" type="glide_date_time"/>
+        <element label="Other" max_length="40" name="other" type="string"/>
         <element label="Requested for" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
         <element choice="3" default="cmdb_ci_computer" label="Item Type" max_length="40" name="item_type" type="choice">
             <choice>
