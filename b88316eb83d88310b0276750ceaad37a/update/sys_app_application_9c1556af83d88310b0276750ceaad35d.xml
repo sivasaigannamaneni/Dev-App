@@ -7,14 +7,14 @@
         <hint/>
         <name/>
         <order>100</order>
-        <roles/>
+        <roles>x_1830144_loaner_0.user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-23 07:18:15</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9c1556af83d88310b0276750ceaad35d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Loaner Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_1830144_loaner_0">b88316eb83d88310b0276750ceaad37a</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Loaner Request">b88316eb83d88310b0276750ceaad37a</sys_scope>
         <sys_update_name>sys_app_application_9c1556af83d88310b0276750ceaad35d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-23 07:18:15</sys_updated_on>
+        <sys_updated_on>2026-05-21 06:55:37</sys_updated_on>
         <title>Loaner Request</title>
         <view_name/>
     </sys_app_application>
